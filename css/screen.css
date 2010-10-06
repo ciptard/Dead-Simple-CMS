@@ -1,0 +1,9 @@
+#menu li {
+	display: inline;
+	list-style-type: none;
+	padding: 0 10px 0 10px;
+}
+
+#footer, #header {
+	text-align: center;
+}
